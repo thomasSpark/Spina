@@ -16,4 +16,6 @@ group :development, :test do
   gem 'guard-minitest'
   gem 'codeclimate-test-reporter', require: nil
   gem 'figaro'
+  gem 'spina-template'
+  gem 'spina'
 end
